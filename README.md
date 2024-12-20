@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shervan Shahparnia</h1>
+<h1 align="center">Hi 😄 I'm Shervan Shahparnia</h1>
 
 # 💫 About Me:
 I am a 4th year Data Science Student at San Jose State University, passionate about Machine Learning, Full-Stack Software Development, and Building Scalable Applications.
