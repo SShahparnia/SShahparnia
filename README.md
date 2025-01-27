@@ -7,7 +7,8 @@ I am a 4th year Data Science Student at San Jose State University, passionate ab
 
 - 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)
 - 💻 Developing full-stack applications with React, Node.js, and MySQL
-
+- 📚 Learning ins and outs of PostgreSQL and Spring Boot to develop my new full-stack application passion project "Crux"
+  
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
 
