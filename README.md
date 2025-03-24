@@ -6,7 +6,7 @@ I am a 4th year Data Science Student at San Jose State University, passionate ab
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)  
-- 💻 Developing full-stack applications with [React](https://react.dev/), [Node.js](https://nodejs.org/), and [MySQL](https://www.mysql.com/)  
+- 🌐 Building my personal portfolio with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and deploying on [Vercel](https://vercel.com/) as a step into understanding web development.
 - 📚 Learning ins and outs of [PostgreSQL](https://www.postgresql.org/) and [Spring Boot](https://spring.io/projects/spring-boot) to develop my new full-stack application passion project "Crux"  
   
 ## 🌐 Connect with me:
