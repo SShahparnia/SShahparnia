@@ -1,14 +1,15 @@
 <h1 align="center">Hello! 😄 I'm Shervan Shahparnia</h1>
 
 # 💫 About Me:
-I am a 4th year Data Science Student at San Jose State University, passionate about Machine Learning, Exploratory Data Analysis, Full-Stack Software Development, and Building Scalable Applications.
+I recently completed my B.S. in Data Science at San José State University and will be pursuing an M.S. in Artificial Intelligence at SJSU. My academic and professional interests lie at the intersection of machine learning, predictive modeling, and scalable full-stack development. I’m passionate about building intelligent systems, conducting applied research, and creating practical tools that bridge data science and software engineering.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)  
-- 🌐 Building my personal portfolio with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and deploying on [Vercel](https://vercel.com/) as a step into understanding web development.
-- 📚 Learning ins and outs of [PostgreSQL](https://www.postgresql.org/) and [Spring Boot](https://spring.io/projects/spring-boot) to develop my new full-stack application passion project "Crux"  
-  
+- 🔬 Leading personal research projects in Human Activity Recognition (HAR), leveraging time and frequency-domain feature extraction with machine learning models including KNN, SVM, and Random Forest.  
+- 🌐 Delivering freelance web development and full-stack solutions using modern frameworks such as React, Spring Boot, PostgreSQL, and Flask to support clients and small businesses.  
+- 🧠 Applying machine learning to real-world datasets, including predictive modeling for traffic accident severity using PyTorch, along with robust statistical analysis and data visualization.  
+- 💼 Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/), built with Next.js and Tailwind CSS, to showcase my technical projects, research, and development expertise.
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
 
