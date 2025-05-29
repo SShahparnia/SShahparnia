@@ -5,10 +5,10 @@ I recently completed my B.S. in Data Science at San José State University and w
 
 ## 🚀 What I'm Up To
 
-- 🔬 Leading personal research projects in Human Activity Recognition (HAR), leveraging time and frequency-domain feature extraction with machine learning models including KNN, SVM, and Random Forest.  
-- 🌐 Delivering freelance web development and full-stack solutions using modern frameworks such as React, Spring Boot, PostgreSQL, and Flask to support clients and small businesses.  
-- 🧠 Applying machine learning to real-world datasets, including predictive modeling for traffic accident severity using PyTorch, along with robust statistical analysis and data visualization.  
-- 💼 Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/), built with Next.js and Tailwind CSS, to showcase my technical projects, research, and development expertise.
+-  Leading personal research projects in Human Activity Recognition (HAR), leveraging time and frequency-domain feature extraction with machine learning models including KNN, SVM, and Random Forest.  
+-  Delivering freelance web development and full-stack solutions using modern frameworks such as React, Spring Boot, PostgreSQL, and Flask to support clients and small businesses.  
+-  Applying machine learning to real-world datasets, including predictive modeling for traffic accident severity using PyTorch, along with robust statistical analysis and data visualization.  
+-  Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/), built with Next.js and Tailwind CSS, to showcase my technical projects, research, and development expertise.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
