@@ -11,14 +11,15 @@
 </p>
 
 
-projects  
+# projects  
 
-university club management platform – react, node.js, mysql, express  
-predictive analytics for safer roads – pytorch, plotly dash, bigquery  
-harth human activity recognition – pandas, scikit-learn, streamlit  
-intelli-trainer – opencv & mediapipe bicep motion tracking  
+[university club management platform](https://github.com/Daoranger/Club-Hub) – react, node.js, mysql, express  
+[predictive analytics for safer roads](https://github.com/SShahparnia/traffic-analysis) – pytorch, plotly dash, bigquery  
+[harth human activity recognition](https://github.com/SShahparnia/HARTH-Human-Activity-Recognition) – pandas, scikit-learn, streamlit  
+[intelli-trainer](https://github.com/SShahparnia/intelli-trainer) – opencv & mediapipe bicep motion tracking  
+[food image classification](https://github.com/SShahparnia/Food-Image-Classification) – inception v3, vgg16, keras, tensorflow  
 
-future plan  
+# future plan  
 expanding into large-scale ai systems, multimodal ml, and applied research  
 
 
