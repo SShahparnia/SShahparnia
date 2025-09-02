@@ -5,8 +5,11 @@
 </p>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Exploring+Machine+Learning+Applications;Computer+Vision+%7C+OpenCV;Applied+Math+in+AI+%26+Software" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploration-orange?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Applied%20Math-AI%2FSoftware-purple?style=for-the-badge&logo=apache-spark&logoColor=white">
 </p>
+
 
 projects  
 
