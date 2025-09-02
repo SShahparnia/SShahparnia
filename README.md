@@ -3,13 +3,10 @@
   <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge&logo=google-scholar&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Science-B.S.-green?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
-
-
-
-
-m.s. artificial intelligence @ san jose state university  
-b.s. data science @ san jose state university  
-exploring ml applications, computer vision (opencv), and applied math in ai/software  
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Exploring+Machine+Learning+Applications;Computer+Vision+%7C+OpenCV;Applied+Math+in+AI+%26+Software" alt="Typing SVG" />
+</p>
 
 projects  
 
