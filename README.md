@@ -11,7 +11,7 @@
 </p>
 
 
-# projects  
+# Projects  
 
 [university club management platform](https://github.com/Daoranger/Club-Hub) – react, node.js, mysql, express  
 [predictive analytics for safer roads](https://github.com/SShahparnia/traffic-analysis) – pytorch, plotly dash, bigquery  
@@ -19,12 +19,14 @@
 [intelli-trainer](https://github.com/SShahparnia/intelli-trainer) – opencv & mediapipe bicep motion tracking  
 [food image classification](https://github.com/SShahparnia/Food-Image-Classification) – inception v3, vgg16, keras, tensorflow  
 
-# future plan  
+# Future plans and Projects 
 expanding into large-scale ai systems, multimodal ml, and applied research  
 
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shervan.shahparnia@gmail.com)
+
 
 # Tech Stack
 
