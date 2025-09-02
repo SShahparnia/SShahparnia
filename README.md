@@ -1,14 +1,24 @@
-<h1 align="center">Hello! I'm Shervan Shahparnia</h1>
+<h1 align="center">Shervan Shahparnia</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Science-B.S.-green?style=for-the-badge">
+</p>
 
-# About Me
-I recently completed my B.S. in Data Science at San José State University and am now pursuing an M.S. in Artificial Intelligence at SJSU. My graduate coursework spans artificial intelligence, data engineering, operating system design, and the mathematical foundations of ML/AI/software systems. I am actively exploring applications of machine learning and the integration of advanced math into intelligent systems. My passion lies in applied research, scalable software design, and bridging theory with practical solutions.
 
-## What I'm Up To
-- Exploring a wide range of machine learning applications, including computer vision projects using OpenCV and related libraries, while also building and cleaning custom datasets for image-based analysis and experimentation.  
-- Developing freelance full-stack applications using modern JavaScript frameworks, with emphasis on API integration (Stripe payments, social media platforms) to provide scalable digital solutions for small businesses. 
-- Building predictive models with cutting-edge tools including PyTorch, scikit-learn, Hugging Face, and Grok, integrating deep learning, NLP, and advanced statistical techniques.
-- Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/). I've built a new one with the same frameworks/languages with Next.js and Tailwind CSS, to showcase technical projects, research, and development expertise. New Portfolio In-Progress [shervan-portfolioV2.vercel.app](https://portfolio-v2-one-pink.vercel.app)
- 
+m.s. artificial intelligence @ san jose state university  
+b.s. data science @ san jose state university  
+exploring ml applications, computer vision (opencv), and applied math in ai/software  
+
+projects  
+
+university club management platform – react, node.js, mysql, express  
+predictive analytics for safer roads – pytorch, plotly dash, bigquery  
+harth human activity recognition – pandas, scikit-learn, streamlit  
+intelli-trainer – opencv & mediapipe bicep motion tracking  
+
+future plan  
+expanding into large-scale ai systems, multimodal ml, and applied research  
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
