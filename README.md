@@ -7,12 +7,15 @@ I recently completed my B.S. in Data Science at San José State University and a
 - Advancing personal research projects in Human Activity Recognition (HAR), leveraging time- and frequency-domain feature extraction with models including KNN, SVM, and Random Forest.  
 - Delivering freelance web development and full-stack solutions using modern frameworks such as React, Spring Boot, PostgreSQL, and Flask to support clients and small businesses.  
 - Exploring machine learning applications in predictive modeling, with projects such as accident severity prediction using PyTorch, supported by statistical testing and visualization.  
-- Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/), built with Next.js and Tailwind CSS, to showcase technical projects, research, and development expertise.  
+- Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/). I've built a new one with the same frameworks/languages with Next.js and Tailwind CSS, to showcase technical projects, research, and development expertise. New Portfolio In-Progress  
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)
 
 # Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SShahparnia&layout=pie)
+
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
