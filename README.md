@@ -4,10 +4,10 @@
 I recently completed my B.S. in Data Science at San José State University and am now pursuing an M.S. in Artificial Intelligence at SJSU. My graduate coursework spans artificial intelligence, data engineering, operating system design, and the mathematical foundations of ML/AI/software systems. I am actively exploring applications of machine learning and the integration of advanced math into intelligent systems. My passion lies in applied research, scalable software design, and bridging theory with practical solutions.
 
 ## What I'm Up To
-- Advancing personal research projects in Human Activity Recognition (HAR), leveraging time- and frequency-domain feature extraction with models including KNN, SVM, and Random Forest.  
-- Delivering freelance web development and full-stack solutions using modern frameworks such as React, Spring Boot, PostgreSQL, and Flask to support clients and small businesses.  
-- Exploring machine learning applications in predictive modeling, with projects such as accident severity prediction using PyTorch, supported by statistical testing and visualization.  
-- Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/). I've built a new one with the same frameworks/languages with Next.js and Tailwind CSS, to showcase technical projects, research, and development expertise. New Portfolio In-Progress [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-v2-one-pink.vercel.app)
+- Exploring a wide range of machine learning applications, including computer vision projects using OpenCV and related libraries, while also building and cleaning custom datasets for image-based analysis and experimentation.  
+- Developing freelance full-stack applications using modern JavaScript frameworks, with emphasis on API integration (Stripe payments, social media platforms) to provide scalable digital solutions for small businesses. 
+- Building predictive models with cutting-edge tools including PyTorch, scikit-learn, Hugging Face, and Grok, integrating deep learning, NLP, and advanced statistical techniques.
+- Continuously refining my personal portfolio website, [shervan-portfolio.vercel.app](https://shervan-portfolio.vercel.app/). I've built a new one with the same frameworks/languages with Next.js and Tailwind CSS, to showcase technical projects, research, and development expertise. New Portfolio In-Progress [shervan-portfolioV2.vercel.app](https://portfolio-v2-one-pink.vercel.app)
  
 
 ## Connect with me
