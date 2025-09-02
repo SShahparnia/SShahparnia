@@ -1,8 +1,8 @@
 <h1 align="center">Shervan Shahparnia</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Science-B.S.-green?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=500&lines=M.S.+AI+%40+SJSU;Exploring+ML%2FAI+%26+Computer+Vision;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 </p>
+
 
 
 m.s. artificial intelligence @ san jose state university  
