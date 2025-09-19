@@ -42,14 +42,14 @@ Deep learning image classifier using **Inception V3, VGG16, and Keras/TensorFlow
 ---
 
 # Future Plans & Projects  
+
 Expanding into **large-scale AI systems**, **multimodal ML**, and **applied research**, including:  
+
+- Leading a **10+ member IntelliTrainer project** under **AI & ML @ SJSU**, developing an intelligent exercise tracking platform with rule-based + ML pipelines for movement detection, GPU acceleration, and future LLM-based coaching.  
+- **Polyglot AI** – personal project focused on multilingual speech transcription and real-time translation using **ASR + Transformer models** with a FastAPI backend.  
 - Real-time **AI music collaborator studio** (transformers, VAEs, CNNs for instruments).  
 - **Climbing tracker mobile app** (Spring Boot, PostgreSQL, React, Supabase).  
 - **Generative AI projects** for style transfer, multimodal reasoning, and LLM integrations.  
-
-
-# Future plans and Projects 
-expanding into large-scale ai systems, multimodal ml, and applied research  
 
 
 ## Connect with me
