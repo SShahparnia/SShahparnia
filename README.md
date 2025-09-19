@@ -13,11 +13,42 @@
 
 # Projects  
 
-[university club management platform](https://github.com/Daoranger/Club-Hub) – react, node.js, mysql, express  
-[predictive analytics for safer roads](https://github.com/SShahparnia/traffic-analysis) – pytorch, plotly dash, bigquery  
-[harth human activity recognition](https://github.com/SShahparnia/HARTH-Human-Activity-Recognition) – pandas, scikit-learn, streamlit  
-[intelli-trainer](https://github.com/SShahparnia/intelli-trainer) – opencv & mediapipe bicep motion tracking  
-[food image classification](https://github.com/SShahparnia/Food-Image-Classification) – inception v3, vgg16, keras, tensorflow  
+[**IntelliTrainer – AI-Powered Exercise Tracker**](https://github.com/SShahparnia/intelli-trainer)  
+Pose-detection based fitness assistant using **OpenCV, MediaPipe, and PyTorch** for rep counting, form correction, and real-time feedback.  
+- Built rule-based + ML-based pipelines for movement detection (squats, pushups, curls, presses).  
+- Includes modular design for future integration with **LLM-based coaching and user progress tracking**.  
+- Focused on GPU acceleration (CUDA) for efficient training and inference.  
+
+[**Predictive Analytics for Safer Roads**](https://github.com/SShahparnia/traffic-analysis)  
+Traffic accident severity prediction system using **PyTorch, Plotly Dash, and Google BigQuery**.  
+- Built neural network + statistical models on a dataset of 7.7M accidents.  
+- Developed an interactive dashboard deployed on **Google App Engine**.  
+- Conducted advanced statistical tests and feature engineering with weather & road data.  
+
+[**HARTH – Human Activity Recognition**](https://github.com/SShahparnia/HARTH-Human-Activity-Recognition)  
+Wearable sensor–based recognition pipeline using **Pandas, Scikit-learn, and Streamlit**.  
+- Extracted time & frequency-domain features from HARTH dataset.  
+- Compared ML models (KNN, SVM, RF, DT) with cross-validation.  
+- Built interactive visualization and classification dashboard.  
+
+[**Club Hub – University Club Management Platform**](https://github.com/Daoranger/Club-Hub)  
+Full-stack web application for student organizations using **React, Node.js, MySQL, and Express**.  
+- Implemented user registration, event tracking, and club workflows.  
+- Designed scalable backend architecture and interactive UI.  
+
+[**Food Image Classification**](https://github.com/SShahparnia/Food-Image-Classification)  
+Deep learning image classifier using **Inception V3, VGG16, and Keras/TensorFlow**.  
+- Applied transfer learning with advanced preprocessing (data augmentation & normalization).  
+- Achieved high accuracy on multi-class food dataset.  
+
+---
+
+# Future Plans & Projects  
+Expanding into **large-scale AI systems**, **multimodal ML**, and **applied research**, including:  
+- Real-time **AI music collaborator studio** (transformers, VAEs, CNNs for instruments).  
+- **Climbing tracker mobile app** (Spring Boot, PostgreSQL, React, Supabase).  
+- **Generative AI projects** for style transfer, multimodal reasoning, and LLM integrations.  
+
 
 # Future plans and Projects 
 expanding into large-scale ai systems, multimodal ml, and applied research  
