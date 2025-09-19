@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/B.S.%20Data%20Science-SJSU-green?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
 
-
-
 # Projects  
 
 [**IntelliTrainer – AI-Powered Exercise Tracker**](https://github.com/SShahparnia/intelli-trainer)  
@@ -47,16 +45,10 @@ Expanding into **large-scale AI systems**, **multimodal ML**, and **applied rese
 
 - Leading a **10+ member IntelliTrainer project** under **AI & ML @ SJSU**, developing an intelligent exercise tracking platform with rule-based + ML pipelines for movement detection, GPU acceleration, and future LLM-based coaching.  
 - **Polyglot AI** – personal project focused on multilingual speech transcription and real-time translation using **ASR + Transformer models** with a FastAPI backend.  
-- Real-time **AI music collaborator studio** (transformers, VAEs, CNNs for instruments).  
-- **Climbing tracker mobile app** (Spring Boot, PostgreSQL, React, Supabase).  
-- **Generative AI projects** for style transfer, multimodal reasoning, and LLM integrations.  
-
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shervan.shahparnia@gmail.com)
-
-
 
 # Tech Stack
 
