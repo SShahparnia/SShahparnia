@@ -1,5 +1,8 @@
 <h1 align="center">Shervan Shahparnia</h1>
 <p align="center">
+  <b>Data Scientist | AI Researcher | Full-Stack Developer</b><br>
+  Building AI-powered applications & intelligent systems 🚀
+</p><p align="center">
   <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge&logo=google-scholar&logoColor=white">
   <img src="https://img.shields.io/badge/B.S.%20Data%20Science-SJSU-green?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
