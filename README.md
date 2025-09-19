@@ -3,12 +3,7 @@
   <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge&logo=google-scholar&logoColor=white">
   <img src="https://img.shields.io/badge/B.S.%20Data%20Science-SJSU-green?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploration-orange?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Applied%20Math-AI%2FSoftware-purple?style=for-the-badge&logo=apache-spark&logoColor=white">
-</p>
+
 
 
 # Projects  
