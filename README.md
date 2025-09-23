@@ -49,10 +49,12 @@ Expanding into **large-scale AI systems**, **multimodal ML**, and **applied rese
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shervan.shahparnia@gmail.com)
+<!--
 
 # Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SShahparnia&layout=pie&hide=Jupyter%20Notebook)
+-->
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
