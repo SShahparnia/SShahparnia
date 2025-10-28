@@ -1,8 +1,9 @@
 <h1 align="center">Shervan Shahparnia</h1>
 <p align="center">
   <b>Data Scientist | AI Researcher | Full-Stack Developer</b><br>
-  Building AI-powered applications & intelligent systems 🚀
-</p><p align="center">
+  Building AI-powered applications & intelligent systems
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge&logo=google-scholar&logoColor=white">
   <img src="https://img.shields.io/badge/B.S.%20Data%20Science-SJSU-green?style=for-the-badge&logo=google-scholar&logoColor=white">
 </p>
@@ -21,11 +22,12 @@ Traffic accident severity prediction system using **PyTorch, Plotly Dash, and Go
 - Developed an interactive dashboard deployed on **Google App Engine**.  
 - Conducted advanced statistical tests and feature engineering with weather & road data.  
 
-[**HARTH – Human Activity Recognition**](https://github.com/SShahparnia/HARTH-Human-Activity-Recognition)  
-Wearable sensor–based recognition pipeline using **Pandas, Scikit-learn, and Streamlit**.  
-- Extracted time & frequency-domain features from HARTH dataset.  
-- Compared ML models (KNN, SVM, RF, DT) with cross-validation.  
-- Built interactive visualization and classification dashboard.  
+[**PaperLink – AI-Powered Research Digest Generator**](https://github.com/SShahparnia/paperlink)  
+AI-driven research platform that transforms a topic prompt into concise, clustered digests of recent **arXiv** papers using **FastAPI, Next.js, Chroma, and Claude 3.5 Sonnet**.  
+- Fetches the latest scholarly papers, embeds them with **MiniLM**, and clusters related work for structured summaries.  
+- Uses **Claude via Lava proxy** for executive summaries and topic labels.  
+- Frontend built with **Next.js 14 + Tailwind**, featuring interactive digest browsing and **Fish Audio TTS** playback.  
+- Stores and caches results with **Chroma Cloud**, ensuring fast reloads and offline fallback.  
 
 [**Club Hub – University Club Management Platform**](https://github.com/Daoranger/Club-Hub)  
 Full-stack web application for student organizations using **React, Node.js, MySQL, and Express**.  
@@ -49,10 +51,9 @@ Expanding into **large-scale AI systems**, **multimodal ML**, and **applied rese
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shervan.shahparnia@gmail.com)
+
 <!--
-
 # Tech Stack
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SShahparnia&layout=pie&hide=Jupyter%20Notebook)
 -->
 
@@ -116,4 +117,3 @@ Expanding into **large-scale AI systems**, **multimodal ML**, and **applied rese
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-
