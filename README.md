@@ -16,8 +16,9 @@ Pose-detection based fitness assistant using **OpenCV, MediaPipe, and PyTorch** 
 - Includes modular design for future integration with **LLM-based coaching and user progress tracking**.  
 - Focused on GPU acceleration (CUDA) for efficient training and inference.  
 
-[**PaperLink – AI-Powered Research Digest Generator (CalHacks 12.0)**](https://github.com/SShahparnia/paperlink)  
-Built at **CalHacks 12.0**, PaperLink is an AI-driven research platform that turns a single topic prompt into concise, clustered digests of recent **arXiv** papers.  
+[**PaperLinks – AI-Powered Research Digest Generator (developed @ CalHacks 12.0)**](https://github.com/SShahparnia/paperlink)  
+[View on Devpost](https://devpost.com/software/kensa?ref_content=user-portfolio&ref_feature=in_progress)  
+Built at **CalHacks 12.0**, PaperLinks is an AI-driven research platform that turns a single topic prompt into concise, clustered digests of recent **arXiv** papers.  
 - Backend built with **FastAPI** integrates **MiniLM embeddings** and **Chroma Cloud** for semantic clustering and storage.  
 - Uses **Claude 3.5 Sonnet via Lava proxy** to generate summaries, topic clusters, and executive overviews.  
 - Frontend built with **Next.js 14 + Tailwind**, featuring a dynamic “Browse” and “Digest” mode for visual exploration.  
