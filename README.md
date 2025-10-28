@@ -16,18 +16,20 @@ Pose-detection based fitness assistant using **OpenCV, MediaPipe, and PyTorch** 
 - Includes modular design for future integration with **LLM-based coaching and user progress tracking**.  
 - Focused on GPU acceleration (CUDA) for efficient training and inference.  
 
+[**PaperLink – AI-Powered Research Digest Generator (CalHacks 12.0)**](https://github.com/SShahparnia/paperlink)  
+Built at **CalHacks 12.0**, PaperLink is an AI-driven research platform that turns a single topic prompt into concise, clustered digests of recent **arXiv** papers.  
+- Backend built with **FastAPI** integrates **MiniLM embeddings** and **Chroma Cloud** for semantic clustering and storage.  
+- Uses **Claude 3.5 Sonnet via Lava proxy** to generate summaries, topic clusters, and executive overviews.  
+- Frontend built with **Next.js 14 + Tailwind**, featuring a dynamic “Browse” and “Digest” mode for visual exploration.  
+- Added **Fish Audio TTS** support for on-the-fly voice playback of research summaries.  
+- Caches and reuses digests for fast reloads and offline support.  
+- Designed and deployed during a 36-hour hackathon for real-time arXiv paper discovery and AI-powered summarization.  
+
 [**Predictive Analytics for Safer Roads**](https://github.com/SShahparnia/traffic-analysis)  
 Traffic accident severity prediction system using **PyTorch, Plotly Dash, and Google BigQuery**.  
 - Built neural network + statistical models on a dataset of 7.7M accidents.  
 - Developed an interactive dashboard deployed on **Google App Engine**.  
 - Conducted advanced statistical tests and feature engineering with weather & road data.  
-
-[**PaperLink – AI-Powered Research Digest Generator**](https://github.com/SShahparnia/paperlink)  
-AI-driven research platform that transforms a topic prompt into concise, clustered digests of recent **arXiv** papers using **FastAPI, Next.js, Chroma, and Claude 3.5 Sonnet**.  
-- Fetches the latest scholarly papers, embeds them with **MiniLM**, and clusters related work for structured summaries.  
-- Uses **Claude via Lava proxy** for executive summaries and topic labels.  
-- Frontend built with **Next.js 14 + Tailwind**, featuring interactive digest browsing and **Fish Audio TTS** playback.  
-- Stores and caches results with **Chroma Cloud**, ensuring fast reloads and offline fallback.  
 
 [**Club Hub – University Club Management Platform**](https://github.com/Daoranger/Club-Hub)  
 Full-stack web application for student organizations using **React, Node.js, MySQL, and Express**.  
