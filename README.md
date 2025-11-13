@@ -44,12 +44,14 @@ Deep learning image classifier using **Inception V3, VGG16, and Keras/TensorFlow
 
 ---
 
-# Future Plans & Projects  
+## Future Plans and Projects
 
-Expanding into **large-scale AI systems**, **multimodal ML**, and **applied research**, including:  
+Expanding into large-scale AI systems, multimodal ML, and applied research, with a focus on building tools that improve real-world workflows.
 
-- Leading a **10+ member IntelliTrainer project** under **AI & ML @ SJSU**, developing an intelligent exercise tracking platform with rule-based + ML pipelines for movement detection, GPU acceleration, and future LLM-based coaching.  
-- **Polyglot AI** – personal project focused on multilingual speech transcription and real-time translation using **ASR + Transformer models** with a FastAPI backend.  
+- Leading a 10+ member IntelliTrainer project under AI and ML at SJSU, developing an intelligent exercise tracking platform with rule-based and ML pipelines, GPU acceleration, and future integration with LLM-based coaching.
+- Increasing participation in university and national hackathons to explore new ideas, build prototypes quickly, and continue improving through competitive development environments.
+- Learning advanced concepts in AI agents and autonomous workflows, including planning, tool use, long-context reasoning, and memory-based agent architectures.
+- Developing an AI agent system to automate key parts of college life, such as class scheduling, assignment tracking, email drafting, study planning, and productivity analysis.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervan-shahparnia/)  
