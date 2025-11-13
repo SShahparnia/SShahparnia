@@ -11,10 +11,14 @@
 # Projects  
 
 [**IntelliTrainer – AI-Powered Exercise Tracker**](https://github.com/SShahparnia/intelli-trainer)  
-Pose-detection based fitness assistant using **OpenCV, MediaPipe, and PyTorch** for rep counting, form correction, and real-time feedback.  
-- Built rule-based + ML-based pipelines for movement detection (squats, pushups, curls, presses).  
-- Includes modular design for future integration with **LLM-based coaching and user progress tracking**.  
-- Focused on GPU acceleration (CUDA) for efficient training and inference.  
+Developed under the **AI and ML at SJSU** organization. The official project page is hosted at  
+[https://www.ai-ml-club-sjsu.com](https://www.ai-ml-club-sjsu.com)  
+but it is currently private since it is owned by the organization.  
+Pose-driven fitness assistant focused on precise, per-exercise form evaluation rather than generic exercise classification.  
+- Rebuilt the pipeline after midsemester testing to remove unnecessary exercise detection and instead apply targeted, rule-based analysis for each specific movement.  
+- Improved joint tracking stability, angle consistency, and rep detection through refined MediaPipe processing and cleaner state logic.  
+- Designed the system for modular growth, including future support for LLM-based coaching, user progress modeling, and GPU-accelerated inference.  
+
 
 [**PaperLinks – AI-Powered Research Digest Generator (developed @ CalHacks 12.0)**](https://github.com/SShahparnia/paperlink)  
 [View on Devpost](https://devpost.com/software/kensa?ref_content=user-portfolio&ref_feature=in_progress)  
